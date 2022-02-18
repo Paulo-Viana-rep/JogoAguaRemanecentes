@@ -5,29 +5,29 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807195466608658
-    m_Hash: 724806974
+      ticks: 637808129686779612
+    m_Hash: 1538994300
   m_LockFileStatus:
     m_FilePath: C:/Projetos/JogoAguaRemanecentes/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807195914562777
-    m_Hash: 2996928973
+      ticks: 637808129738734165
+    m_Hash: 889342072
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Projetos/JogoAguaRemanecentes/Packages
-m_EditorVersion: 2021.2.11f1 (e50cafbb4399)
+m_EditorVersion: 2021.2.12f1 (48b1aa000234)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.7
+- packageId: com.unity.collab-proxy@1.15.12
   testable: 0
   isDirectDependency: 1
-  version: 1.15.7
+  version: 1.15.12
   source: 1
-  resolvedPath: C:\Projetos\JogoAguaRemanecentes\Library\PackageCache\com.unity.collab-proxy@1.15.7
+  resolvedPath: C:\Projetos\JogoAguaRemanecentes\Library\PackageCache\com.unity.collab-proxy@1.15.12
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -45,18 +45,14 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.15.7
+    - 1.15.12
     compatible:
-    - 1.15.7
-    verified: 1.15.7
+    - 1.15.12
+    verified: 1.15.12
   dependencies:
-  - name: com.unity.nuget.newtonsoft-json
-    version: 2.0.0
   - name: com.unity.services.core
     version: 1.0.1
   resolvedDependencies:
-  - name: com.unity.nuget.newtonsoft-json
-    version: 2.0.0
   - name: com.unity.services.core
     version: 1.0.1
   - name: com.unity.modules.unitywebrequest
@@ -90,17 +86,17 @@ m_ResolvedPackages:
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: d208594e5483cdf10d303b6ee17df4d6bf58d3de
+    revision: 5ca1fd4ca9f999e087d19e98afaf99905a582771
     path: 
   unityLifecycle:
-    version: 1.15.7
+    version: 1.15.12
     nextVersion: 
-- packageId: com.unity.ide.rider@3.0.9
+- packageId: com.unity.ide.rider@3.0.12
   testable: 0
   isDirectDependency: 1
-  version: 3.0.9
+  version: 3.0.12
   source: 1
-  resolvedPath: C:\Projetos\JogoAguaRemanecentes\Library\PackageCache\com.unity.ide.rider@3.0.9
+  resolvedPath: C:\Projetos\JogoAguaRemanecentes\Library\PackageCache\com.unity.ide.rider@3.0.12
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -117,10 +113,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 3.0.9
+    - 3.0.12
     compatible:
-    - 3.0.9
-    verified: 3.0.9
+    - 3.0.12
+    verified: 3.0.12
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -143,10 +139,10 @@ m_ResolvedPackages:
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: bbc029723f4d157f759dba0f2d438dfcec2e73eb
+    revision: 453b1e1578da65dafbc7ad6fb71a95ca6b8730f7
     path: 
   unityLifecycle:
-    version: 3.0.9
+    version: 3.0.12
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.14
   testable: 0
@@ -2317,62 +2313,6 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.6
-    nextVersion: 
-- packageId: com.unity.nuget.newtonsoft-json@2.0.0
-  testable: 0
-  isDirectDependency: 0
-  version: 2.0.0
-  source: 1
-  resolvedPath: C:\Projetos\JogoAguaRemanecentes\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 12.0.2.
-
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 2.0.0
-    compatible:
-    - 2.0.0
-    verified: 2.0.0
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
-    path: 
-  unityLifecycle:
-    version: 2.0.0
     nextVersion: 
 - packageId: com.unity.services.core@1.0.1
   testable: 0
